@@ -1,1 +1,1 @@
-Aquí irán las instrucciones de instalación de mi proyecto.
+Aquí irán las instrucciones de instalación de mi proyecto perteneciente al Boot Camp Cero.
