@@ -1,0 +1,2 @@
+# Termómetro con Tkinter
+
