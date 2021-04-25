@@ -70,6 +70,6 @@ class Game():
         
 if __name__ == '__main__':
     pygame.init()
-    game = Game()
-    game.competir()
+    game = Game()  # game será una instancia del objeto Game
+    game.competir() # ejecutamos el método competir
     

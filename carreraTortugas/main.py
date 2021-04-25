@@ -2,7 +2,7 @@ import turtle
 import random
 
 class Circuito():
-    # los atributos tb pueden ir fuera de la función constructora como aquí
+    # los atributos tb pueden ir fuera de la función constructora como aquí. No se pone self pero es como si lo llevaran implícito
     corredores = []  # lista vacia
     __posStartY = (-30, -10, 10, 30)  # daría igual que fuera público porque es una tupla inmutable
     __colorTurtle = ('red', 'blue', 'green', 'orange')
